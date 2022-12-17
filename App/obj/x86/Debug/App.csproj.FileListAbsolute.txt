@@ -10,3 +10,4 @@ c:\users\dell\documents\visual studio 2010\Projects\App\App\obj\x86\Debug\App.Fo
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Form4.resources
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Form5.resources
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Form6.resources
+C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.csprojResolveAssemblyReference.cache
