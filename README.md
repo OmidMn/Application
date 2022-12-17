@@ -20,5 +20,5 @@ Windows Forms is a UI framework for building Windows desktop apps. It provides o
 
 <img style="margin-top:140px;" src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Browser.PNG">
 
-### Browser ###
+### Application Browser ###
 Maybe It's my fault but when I search for a website in this browser It gives me some errors and I don't know why! But anyway It's not that important. The other important point is about changing WebBrowser's default BackColor because It doesn't match to the main theme and I don't like that. And the last thing is about having a responsive frame. Right now I'm not able to do that because I don't know how to do that, but when I figured out I would change My Form size like the rest of the frames. If you know how to do that make sure you fork our project :)
