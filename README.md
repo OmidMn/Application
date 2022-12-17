@@ -1,7 +1,7 @@
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
+      <h5>I made this app using C#</h5>
     </picture>
   </h1>
 </a>
