@@ -2,10 +2,10 @@
   <h1 align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://storage.googleapis.com/cms-storage-bucket/6e19fee6b47b36ca613f.png">
-      <img alt="Flutter" src="https://storage.googleapis.com/cms-storage-bucket/c823e53b3a1a7b0d36a9.png">
     </picture>
   </h1>
 </a>
+
 ## Documentation ###
 * [Visual Studio](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022))
 * [Windows Form](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
