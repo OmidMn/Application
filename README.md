@@ -14,3 +14,6 @@ I made this application using C# programming language. Actually It was my first 
 You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
 
 <img src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Poster.PNG">
+
+## About Windows Form ###
+With Windows Forms, you develop graphically rich apps that are easy to deploy, update, and work while offline or while connected to the internet. Windows Forms apps can access the local hardware and file system of the computer where the app is running.
