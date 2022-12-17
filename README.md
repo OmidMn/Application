@@ -4,6 +4,6 @@
 * [Windows Form](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 * [.NET Framework](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 
-You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks.
+You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks, but there are some other popular sites that you can find your answers as easy as abc!
 
 <img src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Poster.PNG">
