@@ -1,8 +1,6 @@
-<a href="https://flutter.dev/">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <h1 align="center">
-    <picture>
-      <h5>I made this app using C#</h5>
-    </picture>
+      I made this app using C#
   </h1>
 </a>
 
