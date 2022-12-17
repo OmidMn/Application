@@ -18,7 +18,7 @@ You can use these sources to achieve the thing that you are trying to find or ev
 ## About Windows Form ###
 Windows Forms is a UI framework for building Windows desktop apps. It provides one of the most productive ways to create desktop apps based on the visual designer provided in Visual Studio. Functionality such as drag-and-drop placement of visual controls makes it easy to build desktop apps. With Windows Forms, you develop graphically rich apps that are easy to deploy, update, and work while offline or while connected to the internet. Windows Forms apps can access the local hardware and file system of the computer where the app is running.
 
-
 <img src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Browser.PNG">
+
 ### Browser ###
 Maybe It's my fault but when I search for a website in this browser It gives me some errors and I don't know why! But anyway It's not that important. The other important point is about changing WebBrowser's default BackColor because It doesn't match to the main theme and I don't like that. And the last thing is about having a responsive frame. Right now I'm not able to do that because I don't know how to do that, but when I figured out I would change My Form size like the rest of the frames. If you know how to do that make sure you fork our project :)
