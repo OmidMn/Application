@@ -3,7 +3,7 @@
       Windows Form
   </h1>
 </a>
-I made this application using C# programming language. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In description, It has some different options such as Calculator, Exam simulator, Speed game and web browser. Mabey in the future I'll complete that and you can also fork It if you want to add some more options, fix possible bugs or even if you have any ideas you can email me at arya.tesla1856@gmail.com.
+I made this application using C# programming language. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In description, It has some different options such as Calculator, Exam simulator, Speed game and web browser. Mabey in the future I'll complete that and you can also fork It if you want to add some more options, fix possible bugs or even if you have any ideas you can email me at arya.tesla1856@gmail.com
 
 
 ## Documentation ###
