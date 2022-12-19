@@ -101,7 +101,7 @@
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(70, 70);
             this.button4.TabIndex = 1;
-            this.button4.Text = "%";
+            this.button4.Text = "C";
             this.button4.UseVisualStyleBackColor = false;
             this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
@@ -223,7 +223,7 @@
             this.button13.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button13.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button13.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button13.Location = new System.Drawing.Point(35, 422);
+            this.button13.Location = new System.Drawing.Point(309, 422);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(70, 70);
             this.button13.TabIndex = 1;
@@ -265,7 +265,7 @@
             this.button16.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button16.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button16.Location = new System.Drawing.Point(309, 422);
+            this.button16.Location = new System.Drawing.Point(34, 422);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(70, 70);
             this.button16.TabIndex = 1;
