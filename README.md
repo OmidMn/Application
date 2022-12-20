@@ -3,15 +3,17 @@
       Windows Form
   </h1>
 </a>
-I made this application using C# programming language. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In description, It has some different options such as Calculator, Exam simulator, Speed game and web browser. Mabey in the future I'll complete that and you can also fork It if you want to add some more options, fix possible bugs or even if you have any ideas you can email me at arya.tesla1856@gmail.com
+I made this application using C# and Python programming languages. Actually It was my first C# Windows Form project which was my school homework, too. As I mentioned In the description, It has some different options such as Calculator, Exam simulator, Speed game, web browser and so on. of course in the future I'll add some other parts. you can also fork It if you want to add some more options, fix possible bugs or even if you have any ideas you can email me at arya.tesla1856@gmail.com
 
 
 ## Documentation ###
+* [.NET Framework](https://requests.readthedocs.io/en/latest/))
+* [.NET Framework](https://www.crummy.com/software/BeautifulSoup/bs4/doc/))
 * [Visual Studio](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022))
 * [Windows Form](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 * [.NET Framework](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 
-You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
+You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks for C# languge and Python.org and such sites to achieve what you want, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
 
 <img src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Poster.PNG">
 
