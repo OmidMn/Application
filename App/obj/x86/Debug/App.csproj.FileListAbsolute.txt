@@ -11,3 +11,16 @@ C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Fo
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Form5.resources
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.Form6.resources
 C:\Users\DELL\Documents\Visual Studio 2010\Projects\App\App\obj\x86\Debug\App.csprojResolveAssemblyReference.cache
+D:\Programming\C#\App\App\obj\x86\Debug\App.exe
+D:\Programming\C#\App\App\obj\x86\Debug\App.pdb
+D:\Programming\C#\App\App\obj\x86\Debug\App.csprojResolveAssemblyReference.cache
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form1.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form2.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form3.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form4.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form5.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Form6.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.Properties.Resources.resources
+D:\Programming\C#\App\App\obj\x86\Debug\App.csproj.GenerateResource.Cache
+D:\Programming\C#\App\App\bin\Debug\App.exe
+D:\Programming\C#\App\App\bin\Debug\App.pdb

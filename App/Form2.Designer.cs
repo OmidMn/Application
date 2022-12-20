@@ -306,6 +306,7 @@
             this.Controls.Add(this.button5);
             this.Controls.Add(this.button1);
             this.ForeColor = System.Drawing.SystemColors.ControlLight;
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form2";
             this.Text = "Form2";

@@ -41,5 +41,10 @@ namespace App
             webBrowser1.Visible = true;
             webBrowser1.Url = new Uri("http://www." + textBox1.Text);
         }
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
