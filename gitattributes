@@ -1,2 +1,2 @@
-*.cs linguist-detectable=false
-*.resx linguist-detectable=false
+*.csharp linguist-detectable=false
+*.py linguist-detectable=true
