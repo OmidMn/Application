@@ -7,8 +7,8 @@ I made this application using C# and Python programming languages. Actually It w
 
 
 ## Documentation ###
-* [Requests](https://requests.readthedocs.io/en/latest/))
-* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/))
+* [Requests](https://requests.readthedocs.io/en/latest/)
+* [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [Visual Studio](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022))
 * [Windows Form](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 * [.NET Framework](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
