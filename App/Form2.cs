@@ -55,6 +55,7 @@ namespace App
             else 
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -70,6 +71,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -85,6 +87,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -100,6 +103,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -115,6 +119,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -127,11 +132,11 @@ namespace App
                 button6.Visible = false;
                 timer1.Stop();
                 if (res == 16) MessageBox.Show("You won");
-                else MessageBox.Show("You lose");
             }
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -147,6 +152,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -162,6 +168,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -177,6 +184,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -192,6 +200,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -207,6 +216,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -222,6 +232,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -237,6 +248,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -252,6 +264,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
@@ -267,6 +280,7 @@ namespace App
             else
             {
                 MessageBox.Show("Wrong Button");
+                timer1.Stop();
                 Close();
             }
         }
