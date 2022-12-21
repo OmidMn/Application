@@ -42,7 +42,7 @@
             this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button3.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button3.Location = new System.Drawing.Point(213, 165);
+            this.button3.Location = new System.Drawing.Point(209, 165);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(150, 143);
             this.button3.TabIndex = 0;
@@ -55,7 +55,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Lalezar", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.label1.Location = new System.Drawing.Point(113, 48);
+            this.label1.Location = new System.Drawing.Point(109, 48);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(200, 75);
             this.label1.TabIndex = 1;
@@ -67,7 +67,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Location = new System.Drawing.Point(57, 165);
+            this.button1.Location = new System.Drawing.Point(53, 165);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(150, 143);
             this.button1.TabIndex = 0;
@@ -81,7 +81,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button2.Location = new System.Drawing.Point(57, 314);
+            this.button2.Location = new System.Drawing.Point(53, 314);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(150, 143);
             this.button2.TabIndex = 0;
@@ -95,7 +95,7 @@
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button4.Font = new System.Drawing.Font("Lalezar", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button4.Location = new System.Drawing.Point(213, 314);
+            this.button4.Location = new System.Drawing.Point(209, 314);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(150, 143);
             this.button4.TabIndex = 0;
@@ -117,6 +117,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);

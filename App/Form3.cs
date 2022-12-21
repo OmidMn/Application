@@ -17,10 +17,6 @@ namespace App
             this.Text = "Browser";
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Close();
-        }
         private void button5_Click(object sender, EventArgs e)
         {
             webBrowser1.Refresh();
@@ -39,6 +35,7 @@ namespace App
         private void button1_Click(object sender, EventArgs e)
         {
             webBrowser1.Visible = true;
+            webBrowser1.ScriptErrorsSuppressed = true;
             webBrowser1.Url = new Uri("http://www." + textBox1.Text);
         }
 

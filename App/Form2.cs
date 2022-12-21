@@ -132,6 +132,7 @@ namespace App
                 button6.Visible = false;
                 timer1.Stop();
                 if (res == 16) MessageBox.Show("You won");
+                Close();
             }
             else
             {
