@@ -9,20 +9,28 @@ I made this application using C# programming language and also Python for a litt
 </p>
 
 ## Documentation ###
+* [Requests](https://pypi.org/project/requests/)
+* [BeautifulSoup](https://pypi.org/project/bs4/)
 * [Visual Studio](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022))
 * [Windows Form](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 * [.NET Framework](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 
-You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your tasks, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
+<p align="justify">
+You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your C# tasks and Python.org for api part, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
+</p>
 
 <img src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Poster.PNG">
 
 ## About Windows Form ###
+<p align="justify">
 Windows Forms is a UI framework for building Windows desktop apps. It provides one of the most productive ways to create desktop apps based on the visual designer provided in Visual Studio. Functionality such as drag-and-drop placement of visual controls makes it easy to build desktop apps. With Windows Forms, you develop graphically rich apps that are easy to deploy, update, and work while offline or while connected to the internet. Windows Forms apps can access the local hardware and file system of the computer where the app is running. Windows Forms is a UI technology for .NET, a set of managed libraries that simplify common app tasks such as reading and writing to the file system. When you use a development environment like Visual Studio, you can create Windows Forms smart-client apps that display information, request input from users, and communicate with remote computers over a network.
+</p>
 
 <p align="center">
   <img style="margin-top:140px;" src="https://github.com/DarkCloud9000/Multifunction/blob/master/Picture/Browser.PNG">
 </p>
 
 ## Windows Form Browser ###
-Maybe It's my fault but when I search for a website in this browser It gives me some errors and I don't know why! But anyway It's not that important. The other important point is about changing WebBrowser's default BackColor because It doesn't match to the main theme and I don't like that. And the last thing is about having a responsive frame. Right now I'm not able to do that because I don't know how to do that, but when I figured out I would change My Form size like the rest of the frames. If you know how to do that make sure you fork our project :)
+<p align="justify">
+In fact, web scraping is often the only way we can access data. There is a lot of information out there that isn’t available in convenient CSV exports or easy-to-connect APIs. And websites themselves are often valuable sources of data — consider, for example, the kinds of analysis you could do if you could download every post on a web forum. But many websites with useful data don’t offer these convenient options. Consider, for example, the National Weather Service’s website. It contains up-to-date weather forecasts for every location in the US, but that weather data isn’t accessible as a CSV or via API. As previously mentioned, it’s possible to do web scraping with many programming languages. However, one of the most popular approaches is to use Python and the Beautiful Soup library.
+</p>
