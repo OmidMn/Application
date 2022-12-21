@@ -3,8 +3,10 @@
       Windows Form
   </h1>
 </a>
-I made this application using C# programming language. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In description, It has some different options such as Calculator, Exam simulator, Speed game and web browser. Mabey in the future I'll complete that and you can also fork It if you want to add some more options, fix possible bugs or even if you have any ideas you can email me at arya.tesla1856@gmail.com
 
+<p align="justify">
+I made this application using C# programming language and also Python for a little bit. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In description, It has some different options such as Calculator, Exam simulator, Speed game, web browser and so on. Of course in the future I'll add some more parts but you can also fork It if you want to add some more options, fix possible bugs or even if you have any idea you can implement it
+</p>
 
 ## Documentation ###
 * [Visual Studio](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/visualstudio/install/install-visual-studio?view=vs-2022))
