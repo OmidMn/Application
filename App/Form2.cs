@@ -12,14 +12,13 @@ namespace App
 {
     public partial class Form2 : Form
     {
-        int second = 0, res = 0;
+        int second = 0, res = 0, temp = 1;
 
         public Form2()
         {
             InitializeComponent();
             this.Text = "Game";
         }
-
         private void button7_Click(object sender, EventArgs e)
         {
             timer1.Start();
@@ -36,7 +35,7 @@ namespace App
                 progressBar1.Value = second;
             }
 
-            else
+            else if (second == 100 && temp == 1)
             {
                 timer1.Stop();
                 MessageBox.Show("Time's up");
@@ -291,5 +290,9 @@ namespace App
 
         }
 
+        private void Form2_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            temp -= 1;
+        }
     }
 }
