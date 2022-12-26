@@ -1,6 +1,6 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
   <h1 align="center">
-      Windows Form
+      Application
   </h1>
 </a>
 
