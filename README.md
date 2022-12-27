@@ -5,7 +5,7 @@
 </a>
 
 <p align="justify">
-I made this application using C# programming language and also Python for a little bit. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In the description, It has some different options such as Calculator, Exam simulator, Speed game, web browser and so on. Of course in the future I'll add some more parts but you can also fork It if you want to add some more options, fix possible bugs or even if you have any idea you can implement it
+I made this application using C# programming language and also Python for a little bit. Actually It was my first C# Windows Form projects which was my school homework, too. As I mentioned In the description, It has some different options such as Calculator, Exam simulator, Speed game, web browser and so on. Of course in the future I'll add some more parts but you can also fork It if you want to add some more options, fix possible bugs or even if you have any idea you can implement it. Also I must say that I designed another form for my friend which is not that different!
 </p>
 
 ## Documentation ###
