@@ -55,7 +55,7 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button1.Font = new System.Drawing.Font("Lalezar", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button1.Location = new System.Drawing.Point(58, 276);
+            this.button1.Location = new System.Drawing.Point(58, 264);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(303, 67);
             this.button1.TabIndex = 3;
@@ -69,7 +69,7 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button2.Font = new System.Drawing.Font("Lalezar", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button2.Location = new System.Drawing.Point(58, 192);
+            this.button2.Location = new System.Drawing.Point(58, 166);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(303, 67);
             this.button2.TabIndex = 4;
@@ -97,9 +97,9 @@
             this.button4.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.button4.Font = new System.Drawing.Font("Lalezar", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button4.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.button4.Location = new System.Drawing.Point(58, 192);
+            this.button4.Location = new System.Drawing.Point(58, 166);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(303, 151);
+            this.button4.Size = new System.Drawing.Size(303, 165);
             this.button4.TabIndex = 5;
             this.button4.Text = "این آزمون شامل ۴ سوال تستی می باشد که باید در مدتی محدود به آنها پاسخ دهید سوالات" +
     " از درس خاصی نیست و صرفا شامل سوالات اطلاعات عمومی می باشد";
@@ -110,7 +110,7 @@
             // 
             this.button5.BackColor = System.Drawing.Color.SpringGreen;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button5.Font = new System.Drawing.Font("Lalezar", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button5.Font = new System.Drawing.Font("Lalezar", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.button5.Location = new System.Drawing.Point(58, 363);
             this.button5.Name = "button5";
