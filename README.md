@@ -16,7 +16,7 @@ I made this application using C# programming language and also Python for a litt
 * [.NET Framework](https://flutter.dev/get-started/](https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-6.0))
 
 <p align="justify">
-You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your C# tasks and Python.org for api part, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on ...
+You can use these sources to achieve the thing that you are trying to find or even solve your problems. I mean you can use Microsoft main pages to do your C# tasks and Python.org for api part, but there are some other popular sites that you can find your answers as easy as abc! sometimes you try really hard to find something that you can't find in these sites! In this case I recommend you watching related youtube videos, or some other times the company has some special videos talking about the topic. For example google prepared some films talking about how to make mobile applications using flutter and so on.
 </p>
 
 <p align="center">
